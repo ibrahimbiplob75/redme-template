@@ -18,6 +18,14 @@ Commint a git
 	git reset --hard HEAD^ //completly undo..and go to prevous commit
 	
 	
+	
+Git ID view	
+	Git revert 	 			get checkout				git clean
+	git commit --oneline		git checkout(Id)			
+	git show (4 digit ID)		//commit number cng
+							git cehckout master
+							//return previous file	
+
 
 Working Directory		Stagging area		Local repository
 		
@@ -26,4 +34,10 @@ Working Directory		Stagging area		Local repository
 				
 								
 	git status							git log
+	
+Branch making, delete and sift
+	git branch branch-name 	// Create a new bracnh 
+	git checkout -b branch-name //Create + sift new created Branch
+	git checkout branch-name	//Sift that Breanch
+	git branch -d branch-name 	//Delete the Breanch
 
