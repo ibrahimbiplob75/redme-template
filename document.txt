@@ -1,0 +1,12 @@
+Practicing Git from YouTube by Anisul Isalm
+git --version 
+git update 2.38.1
+mkdir fileName
+cd filename
+git init
+git status
+git add
+git add .
+
+
+
