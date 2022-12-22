@@ -10,3 +10,13 @@ git add .
 
 
 
+Working Directory		Stagging area		Local repository
+		
+		git add  ------>	git commit---->
+		git diff ------->
+				
+				
+				
+				
+				git status							git log
+
