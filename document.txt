@@ -1,22 +1,29 @@
 Practicing Git from YouTube by Anisul Isalm
-git --version 
-git update 2.38.1
-mkdir fileName
-cd filename
-git init
-git status
-git add
-git add .
+	git --version 
+	git update 2.38.1
+	mkdir fileName
+	cd filename
+	git init
+	git status
+	git add
+	git add .
+	
+	
 
-
+Commint a git
+	git commint -m "Commit name"
+	git log		 		// git commit history
+	git reset --soft HEAD^  	//Undo git commit
+	git reset  HEAD^   		//undo commit +Remove from stagging
+	git reset --hard HEAD^ //completly undo..and go to prevous commit
+	
+	
 
 Working Directory		Stagging area		Local repository
 		
 		git add  ------>	git commit---->
 		git diff ------->
 				
-				
-				
-				
-				git status							git log
+								
+	git status							git log
 
